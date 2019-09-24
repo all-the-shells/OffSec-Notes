@@ -1,0 +1,3 @@
+```
+rpcinfo -p INSERTIPADDRESS
+```
