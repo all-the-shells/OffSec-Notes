@@ -1,0 +1,4 @@
+nano ~/.bashrc
+
+alias c="clear"
+alias docs="cd /root/Documents"
