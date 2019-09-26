@@ -6,3 +6,6 @@ john --show hash-file.txt
 ```
 john --single crack.txt
 ```
+```
+john --wordlist=/usr/share/john/password.lst crack.txt
+```
