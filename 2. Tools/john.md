@@ -8,4 +8,5 @@ john --single crack.txt
 ```
 ```
 john --wordlist=/usr/share/john/password.lst crack.txt
+john --wordlist=/usr/share/wordlists/rockyou.txt crack.txt
 ```
