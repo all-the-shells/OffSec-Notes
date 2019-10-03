@@ -1,6 +1,6 @@
-WordPress: /var/www/html/wp-config.php
-Drupal: /var/www/html/sites/default/settings.php
-Mambo: /var/www/configuration.php
-PHPNuke: /var/www/config.php
-PHPbb: /var/www/config.php
-Joomla: /var/www/configuration.php
+WordPress /var/www/html/wp-config.php
+Drupal /var/www/html/sites/default/settings.php
+Mambo /var/www/configuration.php
+PHPNuke /var/www/config.php
+PHPbb /var/www/config.php
+Joomla /var/www/configuration.php
